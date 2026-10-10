@@ -1,3 +1,6 @@
+NAMA: RIZKA DZULIYATUN NI'MAH
+NIM : F1D02510025
+
 # Java Inheritance
 
 ## 🧩 Konsep yang Dipelajari
